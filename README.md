@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/noppaz/collie/actions"><img src="https://badgen.net/github/checks/noppaz/collie" /></a>
-    <a href="LICENSE.txt"><img src="https://badgen.net/github/license/noppaz/collie" /></a>
-    <a href="https://github.com/noppaz/collie/releases"><img src="https://badgen.net/github/release/noppaz/collie/stable" /></a>
+    <a href="https://github.com/noppaz/collie/actions"><img src="https://img.shields.io/github/actions/workflow/status/noppaz/collie/build-test.yml" /></a>
+    <a href="LICENSE.txt"><img src="https://img.shields.io/github/license/noppaz/collie" /></a>
+    <a href="https://github.com/noppaz/collie/releases"><img src="https://img.shields.io/github/v/release/noppaz/collie" /></a>
 </p>
 
 <p align="center">A Parquet file CLI explorer with TUI elements.</p>
